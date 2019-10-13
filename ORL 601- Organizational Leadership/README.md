@@ -1,0 +1,3 @@
+Projects and Papers completed during ORL 601
+
+A foundational course that examines the formal and informal structures and processes that are often present in organizations and explores methods for redesigning them so that they are both healthy and productive. The course also provides an overview of systems theory and learning as it applies to functions and behaviors within organizations. Students examine the complexity of these systems, explore behaviors that hinder learning, and what they can do to create an environment that will enhance their abilities to solve complex problems and prevent the formation of new problems. 
